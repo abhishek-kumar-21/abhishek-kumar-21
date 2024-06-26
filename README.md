@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<p align="center">Passionate Computer undergraduate Student Exploring Innovation and Technology</p>
 
-<!--
-**abhishek-kumar-21/abhishek-kumar-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-kumar-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-Here are some ideas to get you started:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-kumar-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">Visitor Count</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{abhishek-kumar-21}/count.svg" alt="Visitor Count">
+</p>
