@@ -22,9 +22,9 @@
 
 <hr>
 
-<img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kumar-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Abhishek's github stats" />
+<img align="left" height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kumar-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Abhishek's github stats" />
 
-  <img align="centre" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-kumar-21&locale=en&hide_title=false&layout=compact&card_width=15&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"/>
+  <img align="centre" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-kumar-21&locale=en&hide_title=false&layout=compact&card_width=15&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"/>
   
 <br>
 
