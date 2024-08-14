@@ -28,8 +28,10 @@
   
 <br>
 
+<!--
 <table>
   <tr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-kumar-21&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 </table>
+-->
