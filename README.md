@@ -8,8 +8,8 @@
 
 <!-- Introduction section -->
 <p align="center">
-  I am currently an undergraduate at <strong>Dr. A.P.J. Abdul Kalam Technical University (AKTU)</strong>, 
-  pursuing my B.Tech degree in Computer Science and Engineering.<br>
+  I am currently an undergraduate at Dr. A.P.J. Abdul Kalam Technical University (AKTU), 
+  pursuing my B.Tech degree in Computer Science and Engineering. 
   Here to explore, learn, and contribute.
 </p>
 
