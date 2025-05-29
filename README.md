@@ -1,9 +1,12 @@
+<img align="right" height="300" src="https://github.com/user-attachments/assets/8a185987-a963-4d3f-bbff-c8176e299c76" alt="image" />
+
+<p align="left">
 <!-- Heading -->
-<h1 align="center">Hi, I'm Abhishek Kumar 👨‍💻</h1>
+<h1 align="center">Hi, I'm Abhishek Kumar 👋</h1>
 
 <!-- Typing animation (roles/description) -->
 <p align="center">
-  <img width="100%" height="37" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;CSE+Undergrad"/>
+  <img height="40" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;CSE+Undergrad"/>
 </p>
 
 <!-- Introduction section -->
@@ -13,12 +16,15 @@
   Here to explore, learn, and contribute.
 </p>
 
+<br>
+
 <!-- Portfolio Link  -->
-<!-- 
+
 <p align="center">
   🧑‍💻 <a target="_blank" href="https://abhishek-kr.vercel.app/">Check out my portfolio</a>
 </p> 
--->
+
+</p>
 
 <br/>
 
