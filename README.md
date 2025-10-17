@@ -45,7 +45,11 @@
 <br/>
 
 <!-- Profile views counter -->
-<p align="center">Profile Views</p>
+<!-- <p align="center">Profile Views</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/%7Babhishek-kumar-21%7D/count.svg" alt="visitor badge"/>
+</p> -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek-kumar-21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
